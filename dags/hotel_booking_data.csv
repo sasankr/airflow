@@ -1,0 +1,4 @@
+hotel, is_canceled, lead_time
+Resort Hotel, 0, 20
+City Hotel, 1, 50
+, 0, 30  # This row has missing data (will be cleaned)
